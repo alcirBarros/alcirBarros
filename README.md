@@ -9,7 +9,7 @@ Sou Bacharel em Análise e Desenvolvimento de Sistemas.<br>
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Java, Python, Kotlin, Ktor, Shell-Script, nodeJs e Typescript</strong>
+  🦄 Linguagens: <strong>Java, Python, Kotlin, Ktor, Shell-Script, nodeJs, Typescript, Angular</strong>
 </p>
 
 <p align="left">
